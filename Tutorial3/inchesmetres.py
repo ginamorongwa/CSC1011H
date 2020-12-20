@@ -3,7 +3,7 @@ max = int(input("Enter the maximum number of inches (not greater than 11):\n"))
 
 print('Inches: ', end='')
 for v in range(min, max + 1):
-    print('  {:2} '.format(v), end='')
+    print('{:4} '.format(v), end='')
 
 print('\nMeters: ', end='')
 for i in range(min, max + 1):
