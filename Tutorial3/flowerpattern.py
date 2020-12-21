@@ -49,7 +49,6 @@ time.sleep(10)
 '''6
 50
 triangle
-CONTINUED
 100
 green
 blue
